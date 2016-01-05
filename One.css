@@ -1,0 +1,131 @@
+  a {
+  	color:white;
+  	text-decoration:none;
+  }
+  li {
+  	display:inline;
+  }
+  .contener {
+  	width:949px;
+  	margin: 0 auto;
+  }
+  .gradient {
+    background:linear-gradient(#42454a,#060606);
+  }
+  .clearfix {
+    clear:both;
+  }
+  .head {
+  	height:106px;
+    border-radius:8px;
+  }
+  .head img {
+  	margin-top:9px;
+  	margin-left:-8px;  
+  }
+  .head ul {
+    font-family: trebuchet MS;
+    margin-left: 672px;
+    margin-top: -102px;
+    font-size: 13px;
+    }
+  .head li a {
+  	color:#dbb443;
+  }
+  .head li.point {
+    background: white;
+    width: 6px;
+    height: 7px;
+    border-radius: 6px;
+    display: inline-block;
+  }
+  #navig {
+    min-height: 51px;
+    border-radius: 8px 8px 0 0;
+    font-family: arial;
+    margin-top: 2px;
+    font-size: 13px;
+    display: inline-block;
+    width: 100%;
+  }
+  #navig ul {
+    margin-top: 18px;
+    letter-spacing: 0.4px;
+    margin-left: -16px;
+  }
+  #navig li {
+    white-space:pre-wrap;
+    border-right: 1px solid white;
+  }
+    #slash-block:last-child {
+    border-right: 0px;
+  }
+  .fon {
+    background: url(images/bad.png);
+    width: 949px;
+    height: 246px;
+  }
+  #leftcol {
+    width: 526px;
+    float: left;
+    min-height: 100%;
+  }
+  #rightcol {
+    float:left;
+    width: 423px;
+  }
+  .sb-ram {
+    background: white;
+    border-radius: 13px;
+    width: 419px;
+    margin-top: -252px;
+    margin-left: -4px;
+  }
+  .sb {
+    background: linear-gradient(#dcd9d1,#f9f9f8);
+    border-radius: 9px;
+    width: 411px;
+    margin-left: 4px;
+    margin-top: 21px;
+  }
+  .sb h1 {
+    font-size: 16.9px;
+    font-family: arial;
+    font-weight: normal;
+    margin:0 auto;
+    padding: 14px;
+  }
+  .sb ul {
+    margin-top: -25px;
+    padding: 29px;
+    margin-left: -9px;
+  }
+  .sb img {
+    float:left;
+    margin: 0px 14px 0px -6px;
+  }
+  .sb a {
+    color: #dbb443;
+  }
+  .sb p {
+    font-size: 13px;
+    margin-top: 4px;
+  }
+  .bottle-cards {
+   margin-left: 550px;
+   word-spacing: 17px;
+  }
+  .foot {
+    background: linear-gradient(#42454a,#060606);
+    height: 47px;
+    border-radius: 0px 0px 10px 11px;
+    margin-top: 3px;
+    border-top: 5px solid #967823;
+  }
+  .foot p {
+    padding: 15px;
+    margin-left: 263px;
+    color: white;
+    font-size: 13px;
+    margin-top: 1px;
+  }
